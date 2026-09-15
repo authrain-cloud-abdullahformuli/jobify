@@ -1,0 +1,37 @@
+{
+  "name": "@authrain-cloud-abdullahformuli/jobify",
+  "version": "1.32.0",
+  "description": "One-command installer for career-ops — the AI-powered job search pipeline built on Claude Code.",
+  "bin": {
+    "career-ops": "bin/cli.mjs"
+  },
+  "type": "module",
+  "files": [
+    "bin/cli.mjs",
+    "bin/skill-entrypoints.mjs",
+    "README.md"
+  ],
+  "engines": {
+    "node": ">=18"
+  },
+  "keywords": [
+    "career-ops",
+    "claude-code",
+    "job-search",
+    "scaffold",
+    "create",
+    "cli"
+  ],
+  "author": "Abdullah Formuli <hi@abdullahformuli.io> (https://github.com/authrain-cloud-abdullahformuli)",
+  "homepage": "https://github.com/authrain-cloud-abdullahformuli/jobify#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/authrain-cloud-abdullahformuli/jobify.git",
+    "directory": "scaffolder"
+  },
+  "bugs": {
+    "url": "https://github.com/authrain-cloud-abdullahformuli/jobify/issues"
+  },
+  "license": "MIT",
+  "dependencies": {}
+}

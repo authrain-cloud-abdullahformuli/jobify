@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you use Jobify, please cite it using these metadata."
+title: "Jobify: Autonomous AI-Powered Job Search & Application Engine"
+type: software
+authors:
+  - family-names: "Formuli"
+    given-names: "Abdullah"
+    email: "authrainmedia@gmail.com"
+    website: "https://github.com/authrain-cloud-abdullahformuli"
+url: "https://github.com/authrain-cloud-abdullahformuli/jobify"
+repository-code: "https://github.com/authrain-cloud-abdullahformuli/jobify"
+license: MIT
+keywords:
+  - ai
+  - job-search
+  - jobify
+  - automation
+  - local-first
+  - cli
+  - resume
+  - cover-letter
