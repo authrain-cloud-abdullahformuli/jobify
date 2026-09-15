@@ -1,6 +1,6 @@
 {
   "name": "@jobify/web",
-  "version": "1.0.0",
+  "version": "0.11.0",
   "private": true,
   "description": "Official web experience for Jobify — local-first.",
   "scripts": {

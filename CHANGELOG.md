@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.33.0](https://github.com/authrain-cloud-abdullahformuli/jobify/compare/career-ops-v1.32.0...career-ops-v1.33.0) (2026-09-15)
+
+
+### Features
+
+* initial commit - Jobify open-source AI job search & application engine ([9185d27](https://github.com/authrain-cloud-abdullahformuli/jobify/commit/9185d274055802904d87fed20353694bdeb7ee75))
+
 ## [1.32.0](https://github.com/authrain-cloud-abdullahformuli/jobify/compare/career-ops-v1.31.0...career-ops-v1.32.0) (2026-09-03)
 
 

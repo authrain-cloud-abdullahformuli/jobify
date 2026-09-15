@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.11.0](https://github.com/authrain-cloud-abdullahformuli/jobify/compare/web-v0.10.0...web-v0.11.0) (2026-09-15)
+
+
+### Features
+
+* initial commit - Jobify open-source AI job search & application engine ([9185d27](https://github.com/authrain-cloud-abdullahformuli/jobify/commit/9185d274055802904d87fed20353694bdeb7ee75))
+
 ## [0.10.0](https://github.com/authrain-cloud-abdullahformuli/jobify/compare/web-v0.9.0...web-v0.10.0) (2026-09-03)
 
 

@@ -1,6 +1,6 @@
 {
   "name": "@authrain-cloud-abdullahformuli/jobify",
-  "version": "1.32.0",
+  "version": "1.33.0",
   "description": "One-command installer for career-ops — the AI-powered job search pipeline built on Claude Code.",
   "bin": {
     "career-ops": "bin/cli.mjs"
